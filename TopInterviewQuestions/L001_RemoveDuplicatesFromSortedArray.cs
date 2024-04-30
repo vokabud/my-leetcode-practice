@@ -5,6 +5,7 @@
 // appears only once. The relative order of the elements should
 // be kept the same. Then return the number of unique elements
 // in nums.
+
 // Consider the number of unique elements of nums to be k, to
 // get accepted, you need to do the following things:
 //  * Change the array nums such that the first k elements of
