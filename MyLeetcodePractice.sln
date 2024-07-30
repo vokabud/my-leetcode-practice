@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopInterviewQuestions", "TopInterviewQuestions\TopInterviewQuestions.csproj", "{350FB723-7FE8-4084-9066-57E77B1839CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopInterviewQuestions", "TopInterviewQuestions\TopInterviewQuestions.csproj", "{350FB723-7FE8-4084-9066-57E77B1839CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopInterviewQuestions.Tests", "TopInterviewQuestions.Tests\TopInterviewQuestions.Tests.csproj", "{B009F2A5-7C86-4A66-9E1F-4AF40CE9A530}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopInterviewQuestions.Tests", "TopInterviewQuestions.Tests\TopInterviewQuestions.Tests.csproj", "{B009F2A5-7C86-4A66-9E1F-4AF40CE9A530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyInterviewQuestions", "MyInterviewQuestions\MyInterviewQuestions.csproj", "{AB30BF6F-7C51-43A8-B608-5BAB914F4489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyInterviewQuestions.Tests", "MyInterviewQuestions.Tests\MyInterviewQuestions.Tests.csproj", "{534773F5-D6CE-41AB-B5C2-AAB5F5C93DC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{B009F2A5-7C86-4A66-9E1F-4AF40CE9A530}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B009F2A5-7C86-4A66-9E1F-4AF40CE9A530}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B009F2A5-7C86-4A66-9E1F-4AF40CE9A530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB30BF6F-7C51-43A8-B608-5BAB914F4489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB30BF6F-7C51-43A8-B608-5BAB914F4489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB30BF6F-7C51-43A8-B608-5BAB914F4489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB30BF6F-7C51-43A8-B608-5BAB914F4489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534773F5-D6CE-41AB-B5C2-AAB5F5C93DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534773F5-D6CE-41AB-B5C2-AAB5F5C93DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534773F5-D6CE-41AB-B5C2-AAB5F5C93DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534773F5-D6CE-41AB-B5C2-AAB5F5C93DC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
