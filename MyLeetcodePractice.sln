@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopInterviewQuestions", "To
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopInterviewQuestions.Tests", "TopInterviewQuestions.Tests\TopInterviewQuestions.Tests.csproj", "{B009F2A5-7C86-4A66-9E1F-4AF40CE9A530}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyInterviewQuestions", "MyInterviewQuestions\MyInterviewQuestions.csproj", "{AB30BF6F-7C51-43A8-B608-5BAB914F4489}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyInterviewQuestions", "MyInterviewQuestions\MyInterviewQuestions.csproj", "{AB30BF6F-7C51-43A8-B608-5BAB914F4489}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyInterviewQuestions.Tests", "MyInterviewQuestions.Tests\MyInterviewQuestions.Tests.csproj", "{534773F5-D6CE-41AB-B5C2-AAB5F5C93DC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyInterviewQuestions.Tests", "MyInterviewQuestions.Tests\MyInterviewQuestions.Tests.csproj", "{534773F5-D6CE-41AB-B5C2-AAB5F5C93DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{A7E2A76A-FF08-46D6-8A79-40F3E5263B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming.Tests", "DynamicProgramming.Tests\DynamicProgramming.Tests.csproj", "{AF2946D8-24D9-4E33-8A0A-E2DD6F74904F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{534773F5-D6CE-41AB-B5C2-AAB5F5C93DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{534773F5-D6CE-41AB-B5C2-AAB5F5C93DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{534773F5-D6CE-41AB-B5C2-AAB5F5C93DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E2A76A-FF08-46D6-8A79-40F3E5263B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E2A76A-FF08-46D6-8A79-40F3E5263B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E2A76A-FF08-46D6-8A79-40F3E5263B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E2A76A-FF08-46D6-8A79-40F3E5263B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2946D8-24D9-4E33-8A0A-E2DD6F74904F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2946D8-24D9-4E33-8A0A-E2DD6F74904F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2946D8-24D9-4E33-8A0A-E2DD6F74904F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2946D8-24D9-4E33-8A0A-E2DD6F74904F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
